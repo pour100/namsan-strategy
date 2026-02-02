@@ -20,7 +20,7 @@ const Hero = () => {
           </div>
           
           <h1 className="text-5xl md:text-7xl font-bold mb-6 leading-tight">
-            정우식
+            정우식 대표
           </h1>
           
           <div className="mb-8">
